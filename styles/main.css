@@ -1,0 +1,60 @@
+.page-header {
+    display: flex;
+    justify-content: center
+}
+
+.owned-fish-list {
+    display: flex;
+    flex-direction: column;
+    border: 3px dotted blue;
+    padding: 1em;
+    margin: 0.5em;
+    width: 40%
+}
+
+.aside-section {
+    display: flex;
+    justify-content:flex-end;
+    flex-direction: column;
+    border: 3px dotted green;
+    padding: 1em;
+    margin: 0.5em;
+    width: 40%
+    
+    
+}
+
+/* .aside-section__quotes {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    
+
+
+}
+
+
+.aside-section__locations {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    
+
+}
+
+.aside-section__travel {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    
+
+}
+
+
+.aside-section__care {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    
+
+} */
