@@ -2,11 +2,12 @@
     display: flex;
     justify-content: center
 }
-
+.container {
+    display: flex;
+}
 .owned-fish-list {
     display: flex;
     flex-direction: column;
-    border: 3px dotted blue;
     padding: 1em;
     margin: 0.5em;
     width: 40%
@@ -14,7 +15,6 @@
 
 .aside-section {
     display: flex;
-    justify-content:flex-end;
     flex-direction: column;
     border: 3px dotted green;
     padding: 1em;
