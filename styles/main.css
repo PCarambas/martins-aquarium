@@ -1,6 +1,7 @@
 .page-header {
     display: flex;
     justify-content: center
+    
 }
 .container {
     display: flex;
@@ -16,7 +17,7 @@
 .aside-section {
     display: flex;
     flex-direction: column;
-    border: 3px dotted green;
+    border: 3px dotted lightgrey;
     padding: 1em;
     margin: 0.5em;
     width: 40%
